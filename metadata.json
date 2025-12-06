@@ -1,0 +1,5 @@
+{
+  "name": "OmniScribe",
+  "description": "A powerful AI transcription tool powered by Gemini 2.5 Flash. Transcribe audio files from meetings, social media downloads, or voice notes with high accuracy and speed.",
+  "requestFramePermissions": []
+}
